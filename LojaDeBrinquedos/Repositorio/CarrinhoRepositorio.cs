@@ -1,5 +1,5 @@
 ﻿using LojaDeBrinquedos.Models;
-using Newtonsoft.Json;
+using Newtonsoft.Json; // newtonsoft.json é uma biblioteca para a linguagem de programação .NET que serve para serializar (converter objetos para o formato JSON) e desserializar (converter texto JSON de volta para objetos) dados JSON de forma eficiente e flexível.
 
 namespace LojaDeBrinquedos.Repositorio
 {
