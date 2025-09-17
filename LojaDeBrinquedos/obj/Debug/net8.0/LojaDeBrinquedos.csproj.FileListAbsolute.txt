@@ -1,0 +1,10 @@
+C:\Users\fabio\Downloads\LojaDeBrinquedos\LojaDeBrinquedos\obj\Debug\net8.0\LojaDeBrinquedos.csproj.AssemblyReference.cache
+C:\Users\fabio\Downloads\LojaDeBrinquedos\LojaDeBrinquedos\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\fabio\Downloads\LojaDeBrinquedos\LojaDeBrinquedos\obj\Debug\net8.0\LojaDeBrinquedos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Downloads\LojaDeBrinquedos\LojaDeBrinquedos\obj\Debug\net8.0\LojaDeBrinquedos.AssemblyInfoInputs.cache
+C:\Users\fabio\Downloads\LojaDeBrinquedos\LojaDeBrinquedos\obj\Debug\net8.0\LojaDeBrinquedos.AssemblyInfo.cs
+C:\Users\fabio\Downloads\LojaDeBrinquedos\LojaDeBrinquedos\obj\Debug\net8.0\LojaDeBrinquedos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Downloads\LojaDeBrinquedos\LojaDeBrinquedos\obj\Debug\net8.0\LojaDeBrinquedos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabio\Downloads\LojaDeBrinquedos\LojaDeBrinquedos\obj\Debug\net8.0\LojaDeBrinquedos.RazorAssemblyInfo.cache
+C:\Users\fabio\Downloads\LojaDeBrinquedos\LojaDeBrinquedos\obj\Debug\net8.0\LojaDeBrinquedos.RazorAssemblyInfo.cs
+C:\Users\fabio\Downloads\LojaDeBrinquedos\LojaDeBrinquedos\obj\Debug\net8.0\LojaDeBrinquedos.sourcelink.json

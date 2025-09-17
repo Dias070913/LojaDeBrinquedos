@@ -4,7 +4,6 @@
     ViewData["Title"] = "Seu Carrinho";
 }
 
-
 <h1>Seu Carrinho de Compras</h1>
 
 @if (TempData["Message"] != null)
@@ -68,3 +67,4 @@ else
 {
     <p>Seu carrinho está vazio.</p>
     <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Continuar Comprando</a>
+}
