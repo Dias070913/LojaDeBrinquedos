@@ -1,7 +1,7 @@
+drop database if exists dbLojaDeBrinquedos;
+
 -- CRIANDO O BANCO DE DADOS
 create database dbLojaDeBrinquedos;
-
-drop database dbLojaDeBrinquedos;
 
 -- USANDO O BANCO DE DADOS
 use dbLojaDeBrinquedos;
