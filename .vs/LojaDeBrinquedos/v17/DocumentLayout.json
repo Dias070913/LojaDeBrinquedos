@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\fabio\\Downloads\\LojaDeBrinquedos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|c:\\users\\fabio\\downloads\\lojadebrinquedos\\lojadebrinquedos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|solutionrelative:lojadebrinquedos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|c:\\users\\fabio\\downloads\\lojadebrinquedos\\lojadebrinquedos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|solutionrelative:lojadebrinquedos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|c:\\users\\fabio\\downloads\\lojadebrinquedos\\lojadebrinquedos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|solutionrelative:lojadebrinquedos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|c:\\users\\fabio\\downloads\\lojadebrinquedos\\lojadebrinquedos\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|solutionrelative:lojadebrinquedos\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|c:\\users\\fabio\\downloads\\lojadebrinquedos\\lojadebrinquedos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|solutionrelative:lojadebrinquedos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|c:\\users\\fabio\\downloads\\lojadebrinquedos\\lojadebrinquedos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|solutionrelative:lojadebrinquedos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDDCA256-3076-43DC-9CE6-0C70DEBA517F}|LojaDeBrinquedos\\LojaDeBrinquedos.csproj|c:\\users\\fabio\\downloads\\lojadebrinquedos\\lojadebrinquedos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\fabio\\Downloads\\LojaDeBrinquedos\\LojaDeBrinquedos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "LojaDeBrinquedos\\Views\\Home\\Index.cshtml",
@@ -183,27 +183,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\fabio\\Downloads\\LojaDeBrinquedos\\LojaDeBrinquedos\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LojaDeBrinquedos\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\fabio\\Downloads\\LojaDeBrinquedos\\LojaDeBrinquedos\\Controllers\\HomeController.cs",
               "RelativeToolTip": "LojaDeBrinquedos\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T21:03:09.621Z"
+              "WhenOpened": "2025-09-16T21:03:09.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProdutoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\fabio\\Downloads\\LojaDeBrinquedos\\LojaDeBrinquedos\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeDocumentMoniker": "LojaDeBrinquedos\\Repositorio\\ProdutoRepositorio.cs",
               "ToolTip": "C:\\Users\\fabio\\Downloads\\LojaDeBrinquedos\\LojaDeBrinquedos\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeToolTip": "LojaDeBrinquedos\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T20:59:21.408Z"
+              "WhenOpened": "2025-09-16T20:59:21.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -219,13 +221,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\fabio\\Downloads\\LojaDeBrinquedos\\LojaDeBrinquedos\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "LojaDeBrinquedos\\Models\\Produto.cs",
               "ToolTip": "C:\\Users\\fabio\\Downloads\\LojaDeBrinquedos\\LojaDeBrinquedos\\Models\\Produto.cs",
               "RelativeToolTip": "LojaDeBrinquedos\\Models\\Produto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T20:55:56.94Z",
               "EditorCaption": ""
