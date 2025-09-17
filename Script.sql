@@ -1,6 +1,8 @@
 -- CRIANDO O BANCO DE DADOS
 create database dbLojaDeBrinquedos;
 
+drop database dbLojaDeBrinquedos;
+
 -- USANDO O BANCO DE DADOS
 use dbLojaDeBrinquedos;
 
@@ -36,3 +38,22 @@ create table itemPedido(
 select * from produtos;
 select * from pedido;
 select * from itemPedido;
+
+insert into produtos(Nome,Descricao,Preco,ImageUrl,Estoque)
+	values('Trator Traçado 30,5cm','A linha Trator Tracado e uma linha de tratores com design super moderno',
+			59.99, 'Images/tratortraçado.jpg',20);
+
+insert into produtos(Nome,Descricao,Preco,ImageUrl,Estoque)
+	values('Elka Dino Papa Tudo','O dinossauro que papa tudo',92.72, 'Images/dinopapatudo.jpg',15);
+    
+insert into produtos(Nome,Descricao,Preco,ImageUrl,Estoque)
+	values('Boneco Olympus Homem-Aranha','Um homem que se tornou uma aranha',89.99, 'Images/homemaranha.jpg',30);
+    
+insert into produtos(Nome,Descricao,Preco,ImageUrl,Estoque)
+	values('Mrs Potato Head','Uma senhora cabeça de batata gringa',49.99, 'Images/potatohead.jpg',30);
+    
+insert into produtos(Nome,Descricao,Preco,ImageUrl,Estoque)
+	values('Tchuco Blocks 77 Peças','Blocos para montar coisas',39.99, 'Images/tchucoblocks.jpg',25);
+    
+insert into produtos(Nome,Descricao,Preco,ImageUrl,Estoque)
+	values('Caminhão Tópi Sabidinho','Brinquedo educativo do caminhão sabidinho',59.90, 'Images/caminhaosabidinho.jpg',60);
